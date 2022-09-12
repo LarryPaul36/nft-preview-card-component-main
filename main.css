@@ -19,7 +19,7 @@ body {
   font-family: "Outfit", sans-serif;
 }
 .container {
-  width: 60%;
+  width: 80%;
   background-color: var(--very-dark-bluee);
   padding: 20px;
   border-radius: 10px;
